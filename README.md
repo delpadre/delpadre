@@ -25,6 +25,8 @@
 
 <div>
 <a href="https://github.com/delpadre">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianmonteirom&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ianmonteirom&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delpadre&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=delpadre&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
+![snake animation](https://github.com/delpadre/delpadre/blob/output/github-contribution-grid-snake2.svg)
